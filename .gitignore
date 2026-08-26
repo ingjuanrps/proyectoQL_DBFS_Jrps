@@ -1,0 +1,18 @@
+# Python y PySpark
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Archhivos de datos locales y temporales
+*.csv
+*.parquet
+.DS_Store
+
+# Imagenes
+*.png
+*.jpg
+assets/*
+
+# FragmentoCódigo
+venv/
+.venv/
