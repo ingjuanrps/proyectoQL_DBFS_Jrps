@@ -8,9 +8,6 @@ __pycache__/
 *.parquet
 .DS_Store
 
-# Imagenes
-*.jpg
-assets/*
 
 # FragmentoCódigo
 venv/
